@@ -1,4 +1,6 @@
 # Binary-search
+##Question 1:
+
 
 ##Question 2:
 For a well balance binary search tree, the max numb of step is about log2(n)
